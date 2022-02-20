@@ -1,0 +1,2 @@
+Found no better way rather than streams, but it works a little bit faster than HashSet, so I decided to send it.
+I had no possibility to see it working with large file, from that point that's kinda guess.
